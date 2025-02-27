@@ -93,6 +93,7 @@ function update() {
         start = to_vf(Math.random(), Math.random());
         particles.push(new Particle(start, new Vector(0, 0)));
     }
+    document.getElementsByName('embed-badge')[0].style.display = 'none';
 }
 
 setInterval(function() {
