@@ -1,4 +1,6 @@
 var canvas = document.getElementById("vectorfield");
+var banner_bg = new Image();
+banner_bg.src = 'static/assets/banner.png'; 
 fitToContainer(canvas);
 
 function fitToContainer(canvas){
@@ -14,8 +16,9 @@ var max_x = 4.5;
 var max_y = 2.2;
 var tstep = 0.001;
 var past_particles = 5;
-var num_particles = 2000;
-ctx.fillStyle = "#42AFBF";
+var num_particles = 100;
+ctx.fillStyle = "#FFFFFF";
+
 
 class Vector {
     constructor(x, y) {
