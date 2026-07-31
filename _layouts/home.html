@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+{% include head.html %}
+</head>
+
+<body id="page-top">
+    <!-- Masthead-->
+    <header class="masthead">
+        <img src="/static/assets/banner.png" alt="Stanford STEM Nights banner" style="position: absolute; z-index: 0; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+        <div class="container px-4 px-lg-5 h-100" style="position: relative;">
+            {% include navbar.html %}
+            <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
+                <div class="col-lg-8 align-self-end">
+                    <h1 class="text-white font-weight-bold">{{ site.tagline }}</h1>
+                    <hr class="divider" />
+                </div>
+                <div class="col-lg-8 align-self-baseline">
+                    <p class="text-white-75 mb-5"> </p>
+                    <a class="btn btn-primary btn-xl" href="#getinvolved">Sign Up</a>
+                </div>
+            </div>
+        </div>
+        <div class="bottom">
+            <a class="scroll-indicator" href="#mission"></a>
+        </div>
+    </header>
+
+    {{ content }}
+
+    {% include footer.html %}
+    {% include scripts.html theme_js="scripts.js" vectorfield=true %}
+</body>
+
+</html>

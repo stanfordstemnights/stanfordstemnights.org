@@ -1,0 +1,50 @@
+- title: Upcoming STEM Nights
+  events:
+    - image: https://imagescdn.homes.com/i2/fID8Iutny2byKzfOifxPaYjECv3j1-g-T5krzsx6KRM/111/ernesto-galarza-elementary-school-san-jose-ca-13-schoolphoto.jpg?p=1
+      month: Jan
+      day: "23"
+      name: Galarza Elementary STEM Night
+      time: 5:30-7:00PM
+      address: 1610 Bird Ave, San Jose, CA 95125
+
+- title: 2025-2026 Past STEM Nights
+  events:
+    - image: https://s3-media0.fl.yelpcdn.com/bphoto/Lqs94piIwd2jnAloREaYpA/348s.jpg
+      month: Nov
+      day: "7"
+      name: Kathryn Hughes Elementary STEM Night
+      time: 6:00-7:30PM
+      address: 4949 Calle De Escuela, Santa Clara, CA 95054
+    - image: https://fundforsharedinsight.org/wp-content/uploads/2017/08/2017-r1-grantee-peninsulabridge.jpg
+      month: Oct
+      day: "28"
+      name: Peninsula Bridge x Synapse STEM Night
+      time: 5:00-6:30PM
+      address: 3375 Edison Way, Menlo Park, CA 94025
+
+- title: 2024-2025 STEM Nights
+  events:
+    - image: /static/assets/events/laurenhouse.png
+      month: July
+      day: "21"
+      name: Lauren's House STEM Night
+      time: 4:00-5:00PM
+      address: 994 Beech St, East Palo Alto, CA 94303
+    - image: https://imagescdn.homes.com/i2/WBF3nRyWgth2iVjvrcxf2GzbdvNM6REGEyK7tYlsso0/117/taft-elementary-school-redwood-city-ca-primaryphoto.jpg?p=1
+      month: Apr
+      day: "23"
+      name: Taft Elementary STEM Night
+      time: 5:00-6:30PM
+      address: 903 Tenth Ave, Redwood City, CA 94063
+    - image: https://imagescdn.homes.com/i2/fID8Iutny2byKzfOifxPaYjECv3j1-g-T5krzsx6KRM/111/ernesto-galarza-elementary-school-san-jose-ca-13-schoolphoto.jpg?p=1
+      month: Feb
+      day: "27"
+      name: Galarza Elementary STEM Night
+      time: 5:00-6:30PM
+      address: 1610 Bird Ave, San Jose, CA 95125
+    - image: https://s3-media0.fl.yelpcdn.com/bphoto/Lqs94piIwd2jnAloREaYpA/348s.jpg
+      month: Feb
+      day: "7"
+      name: Kathryn Hughes Elementary STEM Night
+      time: 6:00-7:30PM
+      address: 4949 Calle De Escuela, Santa Clara, CA 95054

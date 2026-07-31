@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+{% include head.html %}
+</head>
+
+<body id="page-top">
+    <!-- Masthead-->
+    <header>
+        <div class="container px-4 px-lg-5 h-100" style="position: relative;">
+            {% include navbar.html %}
+        </div>
+    </header>
+
+    {{ content }}
+
+    {% include footer.html %}
+    {% include scripts.html theme_js="scriptssecondary.js" %}
+</body>
+
+</html>

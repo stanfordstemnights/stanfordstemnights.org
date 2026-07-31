@@ -1,0 +1,49 @@
+title: Stanford STEM Nights
+description: ""
+author: ""
+email: stanfordstemnights@gmail.com
+copyright_year: 2024
+baseurl: ""
+url: ""
+
+# Displayed in the header/masthead on the home page.
+tagline: Stanford STEM Nights
+
+instagram_username: stanfordstemnights
+
+gallery:
+  id: gal_DKEgVh3ZVyRtJfJn
+  tenant: tnt_Vs20JdWxipTwrG9t
+
+# Nav items shown in the navbar on every page, in order. Each item is hidden
+# on the page it links to (matched against a page's `nav` front matter key).
+nav_items:
+  - name: Students
+    url: /students/
+    page: students
+  - name: Events
+    url: /events/
+    page: events
+  - name: Volunteer
+    url: /volunteer/
+    page: volunteer
+  - name: Activities
+    url: /activities/
+    page: activities
+  - name: Gallery
+    url: /#gallery
+  - name: About
+    url: /#about
+  - name: Contact
+    url: /#contact
+  - name: Instagram
+    url: /#socials
+    icon: bi-instagram
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - preview.sh
+  - vendor
+  - node_modules
+  - "*.DS_Store"

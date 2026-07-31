@@ -1,0 +1,29 @@
+# Officers shown in the "About Us" section on the home page, grouped into
+# rows the same way the original markup was.
+- - image: elyseh.png
+    name: Elyse Hwang
+    role: Co-President
+  - image: audreyj.png
+    name: Audrey Jung
+    role: Co-President
+  - image: rishiu.png
+    name: Rishi Upadhyay
+    role: Vice President
+  - image: eeganr.png
+    name: Eegan Ram
+    role: Financial Officer
+  - image: sydneyz.png
+    name: Sydney Zhang
+    role: Outreach
+- - image: sophial.png
+    name: Sophia Li
+    role: Communications
+  - image: yashb.png
+    name: Yashaswi Bista
+    role: Communications
+  - image: ashleym.png
+    name: Ashley Malkin
+    role: Activities
+  - image: katelyny.png
+    name: Katelyn Yeung
+    role: Activities
