@@ -8,16 +8,13 @@
 <body id="page-top">
     <!-- Masthead-->
     <header class="masthead">
-        <img src="/static/assets/banner.png" alt="Stanford STEM Nights banner" style="position: absolute; z-index: 0; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
         <div class="container px-4 px-lg-5 h-100" style="position: relative;">
             {% include navbar.html %}
-            <div class="row gx-4 gx-lg-5 h-100 align-items-center justify-content-center text-center">
-                <div class="col-lg-8 align-self-end">
-                    <h1 class="text-white font-weight-bold">{{ site.tagline }}</h1>
-                    <hr class="divider" />
-                </div>
-                <div class="col-lg-8 align-self-baseline">
-                    <p class="text-white-75 mb-5"> </p>
+            <div class="row gx-4 gx-lg-5 h-100 align-items-end justify-content-center text-center">
+                <div class="col-12 col-lg-8 hero-content">
+                    <h1 class="text-white font-weight-bold" style="font-family: var(--font-serif); text-shadow: 0 2px 16px rgba(0, 0, 0, 0.55);">{{ site.tagline }}</h1>
+                    <hr class="divider divider-light" />
+                    <p class="text-white-85 mb-4" style="text-shadow: 0 1px 8px rgba(0, 0, 0, 0.55);">STEM education for our local elementary schools.</p>
                     <a class="btn btn-primary btn-xl" href="#getinvolved">Sign Up</a>
                 </div>
             </div>
