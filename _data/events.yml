@@ -1,14 +1,20 @@
 - title: Upcoming STEM Nights
   events:
     - image: https://imagescdn.homes.com/i2/fID8Iutny2byKzfOifxPaYjECv3j1-g-T5krzsx6KRM/111/ernesto-galarza-elementary-school-san-jose-ca-13-schoolphoto.jpg?p=1
+      month: Nov
+      day: "12"
+      name: Galarza Elementary STEM Night
+      time: TBA
+      address: 1610 Bird Ave, San Jose, CA 95125
+
+- title: 2025-2026 Past STEM Nights
+  events:
+    - image: https://imagescdn.homes.com/i2/fID8Iutny2byKzfOifxPaYjECv3j1-g-T5krzsx6KRM/111/ernesto-galarza-elementary-school-san-jose-ca-13-schoolphoto.jpg?p=1
       month: Jan
       day: "23"
       name: Galarza Elementary STEM Night
       time: 5:30-7:00PM
       address: 1610 Bird Ave, San Jose, CA 95125
-
-- title: 2025-2026 Past STEM Nights
-  events:
     - image: https://s3-media0.fl.yelpcdn.com/bphoto/Lqs94piIwd2jnAloREaYpA/348s.jpg
       month: Nov
       day: "7"
